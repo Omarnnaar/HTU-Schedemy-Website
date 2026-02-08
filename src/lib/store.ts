@@ -8,7 +8,7 @@ import {
   tas as mockInitialTAs, tas
 } from './data';
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://34.198.205.91:8080';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://3.146.203.50:8080';
 const API_BASE_URL_ROUTING =  'https://newbranch.d2c7h061uodxo8.amplifyapp.com/';
 // const API_BASE_URL_ROUTING = 'http://localhost:3001/';
 

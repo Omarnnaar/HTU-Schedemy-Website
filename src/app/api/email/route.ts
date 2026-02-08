@@ -4,7 +4,7 @@ export async function POST(request: Request) {
   try {
     const body = await request.json();
 
-    const res = await fetch('http://34.198.205.91:8080/email', {
+    const res = await fetch('http://3.146.203.50:8080/email', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
