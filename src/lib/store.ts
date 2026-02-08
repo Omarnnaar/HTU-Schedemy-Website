@@ -9,7 +9,7 @@ import {
 } from './data';
 
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://34.198.205.91:8080';
-const API_BASE_URL_ROUTING =  process.env.NEXT_PUBLIC_API_URL || 'https://master.d2hh6o27ll1srl.amplifyapp.com/';
+const API_BASE_URL_ROUTING =  https://newbranch.d3j08vx9mueaso.amplifyapp.com/ ;
 // const API_BASE_URL_ROUTING = 'http://localhost:3001/';
 
 interface AppState {
